@@ -1,0 +1,11 @@
+torch>=2.2
+transformers==4.52.3
+datasets>=3.0
+accelerate>=1.0
+tokenizers
+sentencepiece
+safetensors
+pandas
+numpy
+scikit-learn
+matplotlib
